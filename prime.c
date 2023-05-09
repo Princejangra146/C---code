@@ -25,7 +25,7 @@ printf("\n%d is a prime number", num );
 else
 printf( "\n%d is not a prime number ", num);
 return 0;
-}`
+}
 
 
 
