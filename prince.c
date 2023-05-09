@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main(){
-printf("Prince Loves Anupama");
+printf("Prince Loves Anupama and Nina");
 }
 
 
