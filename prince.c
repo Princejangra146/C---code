@@ -1,7 +1,9 @@
 #include<stdio.h>
 
 int main(){
-printf("Prince Loves Anupama and Nina");
+    char love_intrest[100];
+    scanf("%s",love_intrest);
+printf("Prince Loves ",love_intrest);
 }
 
 
